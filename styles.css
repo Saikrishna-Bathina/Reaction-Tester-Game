@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#shape{
+    height: 100px;
+    width: 100px;
+    background-color: cyan;
+    position: absolute;
+    border-radius: 10%;
+    margin: 100px;
+    
+}
+header{
+    text-align: center;
+    background-color: #252525;
+    color: bisque;
+    font-size: 1.2rem;
+}
+#result{
+    padding: 10px;
+    color: red;
+    font-size: 1.5rem;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+#best{
+    padding: 10px;
+    color: red;
+    font-size: 1.5rem;
+    margin-right: 40px;
+}
